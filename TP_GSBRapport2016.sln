@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_GSBRapport2016", "TP_GSBRapport2016\TP_GSBRapport2016.csproj", "{67075638-EB83-487F-B792-A7C19E0FF1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitaire_GSBRapport2016", "TestUnitaire_GSBRapport2016\TestUnitaire_GSBRapport2016.csproj", "{A774C16F-FEED-43A8-BDFA-AEDAFF4FF88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67075638-EB83-487F-B792-A7C19E0FF1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67075638-EB83-487F-B792-A7C19E0FF1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67075638-EB83-487F-B792-A7C19E0FF1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67075638-EB83-487F-B792-A7C19E0FF1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A774C16F-FEED-43A8-BDFA-AEDAFF4FF88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A774C16F-FEED-43A8-BDFA-AEDAFF4FF88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A774C16F-FEED-43A8-BDFA-AEDAFF4FF88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A774C16F-FEED-43A8-BDFA-AEDAFF4FF88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D71A187-5F58-4613-B036-4132A4407E53}
+	EndGlobalSection
+EndGlobal
